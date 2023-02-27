@@ -1,0 +1,23 @@
+body{
+    background-color: seashell;
+}
+img{
+    border-radius: 70%;
+}
+.photo{
+    background-color: lightslategrey;
+    height: 200px;
+}
+hr{
+border-left: 100px;
+
+}
+*{
+    font-style: times new roman;
+}
+a:hover{
+    color: rgb(208, 113, 40);
+}
+a:active{
+    color: rgb(26, 124, 49);
+}
